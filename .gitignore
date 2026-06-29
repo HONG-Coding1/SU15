@@ -1,0 +1,10 @@
+# https://dart.dev/tools/private-files
+# Created by `dart pub`
+.dart_tool/
+
+# IDE files
+.idea/
+*.iml
+
+# Local imported backup copy
+imported-su15-dart/
